@@ -1,5 +1,4 @@
 package br.com.alura.screenmatch.modelos;
-
 public class Titulo {
     public String nome;
     private int anoDeLancamento;
